@@ -1,0 +1,5 @@
+✅ TC1: Registering a New Fitness User
+✅ TC2: Logging a Workout Session
+✅ TC3: Calculating Average Calories Burned
+✅ HTC1: Generating Progress Reports
+✅ HTC2: Handling Workout Logging for Non-Existent Users
